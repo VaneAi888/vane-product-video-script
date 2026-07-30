@@ -1,7 +1,7 @@
 ---
 name: vane-product-video-script
 description: 为商业产品宣传片建立可重复执行的策划、脚本与分镜工作流。用于 Kickstarter 众筹主片、产品宣传片、产品功能片、故事型产品广告、电商转化短片、新品发布片、官网产品片、展会/经销商视频和社交媒体商业短片。每次写脚本前必须先让用户选择视频用途，再整理产品资料、推荐脚本手法与呈现形式、确认创意方向，最后输出完整分镜并按需导出 XLSX。不要用于普通影视剧本、纯文案或自动生成分镜画面，除非用户明确要求。
-license: Proprietary
+license: CC-BY-4.0
 metadata:
   author: vane
   version: "1.0.0"
