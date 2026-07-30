@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vane 产品视频脚本"
+  short_description: "把产品资料转化为商业视频脚本与可执行分镜"
+  default_prompt: "使用 $vane-product-video-script 为我的产品规划视频用途、创意脚本和完整分镜。"
